@@ -1,0 +1,20 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch
+pose-format>=0.3.2
+numpy
+pympi-ling # Working with ELAN files in CLI
+torch
+pytest
+pylint
+pytorch-lightning
+sign-language-datasets
+wandb
+matplotlib
+scikit-learn
+pandas
+mediapipe
+gdown
+lxml
+disklist
+plotly
+webvtt-py 
